@@ -4,6 +4,8 @@ Test Case for Frontend
 After cloning project with <<git clone https://github.com/begumkucuk35/TestCaseBegumKucuk.git>> command, npm should be install with using <<npm i> command.
 The project can be run by using <<npm run dev>>. 
 
+After run the project, "DASHBOARD" should be selected from the sidebar to route to the dashboard page which one was expected to be completed.
+
 This project was created by using Vue3 and Typescript. To use the buttons & form inputs & navigation bar, bootstrap was used.
 Pages below are the demonstration example of the project.
 
